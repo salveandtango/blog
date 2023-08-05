@@ -185,7 +185,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # Gravatar 邮箱，用于优先在主页显示的头像
       gravatarEmail = ""
       # 主页显示头像的 URL
-      avatarURL = "/images/avatar.png"
+      avatarURL = "/images/avatar.jpg"
       #  主页显示的网站标题 (支持 HTML 格式)
       title = ""
       # 主页显示的网站副标题 (允许 HTML 格式)
@@ -281,7 +281,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     RootMe= ""
     Phone = "+86 13874925531"
     Email = "fixedsofficecase@foxmail.com"
-    RSS = true # 
+    RSS = true #
 
   #  文章页面全局配置
   [params.page]
@@ -377,13 +377,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       enable = false
       # Disqus 评论系统设置
       [params.page.comment.disqus]
-        # 
+        #
         enable = false
         # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
         shortname = ""
       # Gitalk 评论系统设置
       [params.page.comment.gitalk]
-        # 
+        #
         enable = false
         owner = ""
         repo = ""
@@ -613,7 +613,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # 用于 Hugo 输出文档的设置
 [outputs]
-  # 
+  #
   home = ["HTML", "RSS", "JSON"]
   page = ["HTML", "MarkDown"]
   section = ["HTML", "RSS"]
