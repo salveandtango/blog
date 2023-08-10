@@ -4,6 +4,10 @@ date: 2021-08-14 16:24:09
 categories: ["technical"]
 ---
 
+## 前言
+一篇关于 JVM 的阅读笔记。
+<!--more-->
+
 <center><img src="images/structure.png" width="50%" alt="结构图"/></center>
 
 ## 1. 程序计数器（PC, Program Counter Register）

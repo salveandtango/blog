@@ -1,13 +1,15 @@
 ---
 title: 关于code-server的搭建
 keywords: code-server,Vs Code,vscode
+date: 2021-06-19 14:44:42
 categories: ["technical"]
-
 ---
 
 ## 前言
 
 code-server 是一个可以让用户在网页上使用 Vs Code 编程的服务，主要适用于特殊情况时移动设备上的开发，例如平板电脑、未安装编译器的笔记本等。这篇文章详细描述了我的搭建过程。
+
+<!--more-->
 
 正如它的[Github主页](https://github.com/cdr/code-server)介绍的一般，code-server 是可以一个在浏览器中运行 Vs Code 的服务。不过首先，你需要一台服务器。
 

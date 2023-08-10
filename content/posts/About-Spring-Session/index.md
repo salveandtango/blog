@@ -6,7 +6,7 @@ categories: ["technical"]
 
 ## 前言
 想把公司的屎山从 Spring Boot 1.5.1 更新到 2.4.1，遇到了关于 Spring Session 的奇奇怪怪的问题，经过排查之后发现是不同的 Spring Session 版本生成的数据表不一致而导致的。
-
+<!--more-->
 ## 关于 Spring Session JDBC
 > **Spring** **Session** **JDBC** provides SessionRepository implementation backed by a relational database and configuration support.
 

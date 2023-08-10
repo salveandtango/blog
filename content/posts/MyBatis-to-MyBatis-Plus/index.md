@@ -1,12 +1,14 @@
 ---
-title: 如果可以，我希望你也了解下MyBatis-Plus
+title: 关于 MyBatis-Plus 的使用
 date: 2021-07-01 12:06:55
 categories: ["technical"]
 ---
 
 ## 前言
 
- 谈一谈 MyBatis-Plus，和我使用它的感受。[MyBatis-Plus](https://baomidou.com/guide/) 是国人在 MyBatis 的基础上开发的一款增强工具。它能够很好地简化开发和提升效率，最初的 1.0 版本是 2016 年 7 月份发行的，截至目前为止版本号已经来到了 3.4.3。我从 19 年开始使用 MyBatis-Plus 代替 Mybatis，它帮我省去了非常多的重复操作。
+谈一谈 MyBatis-Plus，以及我在这一段时间内使用它的感受。
+<!--more-->
+[MyBatis-Plus](https://baomidou.com/guide/) 是国人在 MyBatis 的基础上开发的一款增强工具。它能够很好地简化开发和提升效率，最初的 1.0 版本是 2016 年 7 月份发行的，截至目前为止版本号已经来到了 3.4.3。我从 19 年开始使用 MyBatis-Plus 代替 Mybatis，它帮我省去了非常多的重复操作。
 
 _（注：以下操作全为在 SpringBoot 中进行）_
 
